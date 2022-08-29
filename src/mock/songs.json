@@ -1,0 +1,22 @@
+[{
+  "id":"0",
+  "name":"最幸福的事",
+  "pic":"/imgs/zjx.png",
+  "singer":"钟嘉欣",
+  "src":"src/static/mp3/薛之谦 - 演员.mp3"
+},
+  {
+    "id":"1",
+    "name":"演员",
+    "pic":"/imgs/xzq.png",
+    "singer":"薛之谦",
+    "src":"src/static/mp3/薛之谦 - 演员.mp3"
+  },
+  {
+    "id":"2",
+    "name":"走狗",
+    "pic":"/imgs/zbh.png",
+    "singer":"周柏豪",
+    "src":"src/static/mp3/薛之谦 - 演员.mp3"
+  }
+]
